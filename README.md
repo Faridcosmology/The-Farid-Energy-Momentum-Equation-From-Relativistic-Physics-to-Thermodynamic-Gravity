@@ -1,0 +1,1 @@
+# The-Farid-Energy-Momentum-Equation-From-Relativistic-Physics-to-Thermodynamic-Gravity
