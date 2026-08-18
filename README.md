@@ -1,3 +1,4 @@
+The Farid Energy–Momentum Equation: From Relativistic Physics to Thermodynamic Gravity
 \documentclass[12pt]{article}
 \usepackage{amsmath}
 \usepackage{geometry}
@@ -84,4 +85,3 @@ The equation $E_F = \sqrt{(pc)^2 + (mc^2)^2}$ is the complete and definitive for
 \end{quote}
 
 \end{document}
-# The-Farid-Energy-Momentum-Equation-From-Relativistic-Physics-to-Thermodynamic-Gravity
